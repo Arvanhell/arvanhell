@@ -1,5 +1,5 @@
 ## About me✍
-Hello there! I am Cezary, I am self-taught programmer. Diving into code every day to learn something new
+Hello there! My name is Cezary, I am self-taught programmer. Diving into code every day to learn something new
 I've got a colorful palette of interests! 
 I love coding, I am fascinating with the intricate art of technology, 
 crafting solutions through lines of code. It's a canvas where creativity meets problem-solving.

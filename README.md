@@ -1,4 +1,5 @@
 ## About me✍
+<img link = "https://pbs.twimg.com/profile_banners/4089402495/1702497251/1500x500">
 Hello there! My name is Cezary, I am self-taught programmer. Diving into code every day to learn something new
 I've got a colorful palette of interests! 
 I love coding, I am fascinating with the intricate art of technology, 

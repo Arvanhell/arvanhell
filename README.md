@@ -1,16 +1,22 @@
-## About me✍
+²## About me✍
 ![1500x500](https://github.com/Arvanhell/arvanhell/assets/107252746/b003791c-a860-442b-9d02-15403a17e8ca)
 
-Hello there! My name is Cezary, I am self-taught programmer. Diving into code every day to learn something new
-I've got a colorful palette of interests! 
-I love coding, I am fascinating with the intricate art of technology, 
-crafting solutions through lines of code. It's a canvas where creativity meets problem-solving.
-I love books. My passion for knowledge come from Each book I read, It was opens a portal to a new world, 
-allowing imagination to roam free.
-I love drawing. Drawing is a beautiful form of expression, a way to create own visual stories. 
-Whether through pencil strokes or digital art, it's a canvas for emotions and ideas.
-I love also watching movies. Movies offer a different kind of storytelling, transporting to diverse 
-landscapes and narratives. 
-They can inspire, entertain, and sometimes, provoke thought.
-Lastly, but most valuable from everything I love spending time with family. 
-Those moments create cherished memories, woven with love and laughter.
+# Hello! I am ARV
+
+### "I am not a speck of dust in the machine, but the spark that drives it."
+
+**System Architect & Creative Mind**
+Driven by technology, art, and the pursuit of knowledge. I build web applications with a focus on clean logic and human-centered design.
+
+---
+
+### 🚀 Now Building: [ARV-Anki](https://github.com/Arvanhell/arv-anki)
+*An ecosystem where technology meets purpose.*
+
+* 🎨 **Merging Worlds:** I use HTML, CSS, and JS to transform dry code into living solutions.
+* ✨ **Passions:** Coding / Digital Art / Literature / Cinematography.
+* 📚 **Driven by:** Wisdom from books, the discipline of art, and the love for my family.
+* 🌱 **Mission:** Building a solid foundation for the world to come, one line of code at a time.
+
+---
+*"Ready. Power. Truth."*

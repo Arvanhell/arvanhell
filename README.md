@@ -10,7 +10,7 @@ Driven by technology, art, and the pursuit of knowledge. I build web application
 
 ---
 
-### 🚀 Now Building: [ARV-Anki](https://github.com/Arvanhell/arv-anki)
+### 🚀 Now Building: [ARV-Anki](https://github.com/Arvanhell/ArvAnki_v3)
 *An ecosystem where technology meets purpose.*
 
 * 🎨 **Merging Worlds:** I use HTML, CSS, and JS to transform dry code into living solutions.

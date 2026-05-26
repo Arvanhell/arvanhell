@@ -1,5 +1,6 @@
 ²## About me✍
-![1500x500](https://github.com/Arvanhell/arvanhell/assets/107252746/b003791c-a860-442b-9d02-15403a17e8ca)
+<!--![1500x500](https://github.com/Arvanhell/arvanhell/assets/107252746/b003791c-a860-442b-9d02-15403a17e8ca)-->
+<img width="1830" height="576" alt="image" src="https://github.com/user-attachments/assets/980a9b98-dbf5-487e-ad83-3b51c58459e6" />
 
 # Hello! I am ARV
 
